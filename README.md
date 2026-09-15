@@ -13,4 +13,4 @@ Neo4j 기반 steam game 추천 서비스
 - REACT
 
 ## 📄 Docs
-- (요구사항 정의서)[https://docs.google.com/spreadsheets/d/1KMoueBmQyMINAqleEO3EALeprAxYqE7Gc3KIU6LDkJ8/edit?usp=sharing]
+- [요구사항 정의서](https://docs.google.com/spreadsheets/d/1KMoueBmQyMINAqleEO3EALeprAxYqE7Gc3KIU6LDkJ8/edit?usp=sharing)

@@ -1,7 +1,7 @@
 # find-my-steam-game
 Neo4j 기반 steam game 추천 서비스
 
-## Features
+## 📌 Features
 - **TAG별 게임목록**
 - **게임별 상세페이지**
 - **자연어 기반 게임추천**

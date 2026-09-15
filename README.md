@@ -1,4 +1,4 @@
-# find-my-steam-game
+# 🎮 find-my-steam-game
 Neo4j 기반 steam game 추천 서비스
 
 ## 📌 Features

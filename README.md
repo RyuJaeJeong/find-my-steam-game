@@ -13,4 +13,6 @@ Neo4j 기반 steam game 추천 서비스
 - REACT
 
 ## 📄 Docs
+- [Steam_Game_MetaData](https://www.kaggle.com/datasets/newnguyn/steam-game-clean)
 - [요구사항 정의서](https://docs.google.com/spreadsheets/d/1KMoueBmQyMINAqleEO3EALeprAxYqE7Gc3KIU6LDkJ8/edit?usp=sharing)
+- [DB 설계서](https://docs.google.com/spreadsheets/d/1DGkVZCN_mvNGpS81MWs1ICDxDkdN1aMCD3DJuTcrkZY/edit?usp=sharing)
